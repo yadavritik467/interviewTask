@@ -9,7 +9,7 @@
 
 # for frontend 
 
-* go to the frontend directory through terminal ---> cd frontend
+* go to the frontend directory through terminal ---> cd client
 
 * install all the dependencies by using --> npm i
 * it will run the server on --> http://localhost:3000
